@@ -21,7 +21,7 @@
 - 📫 How to reach me **srikanthreddya345@gmail.com**
 
 - <p dir="auto">👨‍💻 All of my projects are available at <a href="https://github.com/srikanth20k?tab=repositories">https://github.com/srikanth20k?tab=repositories</a></p>
-- <p dir="auto">📄 Know about my experiences <a href="https://docs.google.com/document/d/1Avi_3tIT2mP_zqMYOyDCu__NBlfo8zIw/edit?usp=drivesdk&ouid=102169495785701149480&rtpof=true&sd=true" rel="nofollow">https://docs.google.com/document/d/1Avi_3tIT2mP_zqMYOyDCu__NBlfo8zIw/edit?usp=drivesdk&ouid=102169495785701149480&rtpof=true&sd=true</a></p>
+- <p dir="auto">📄 Know about my experiences <a href="https://drive.google.com/file/d/1CBcTlZCfFDwuNSZEoXjQpvUnLMS6_O0d/view?usp=drivesdk" rel="nofollow">https://drive.google.com/file/d/1CBcTlZCfFDwuNSZEoXjQpvUnLMS6_O0d/view?usp=drivesdk</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
